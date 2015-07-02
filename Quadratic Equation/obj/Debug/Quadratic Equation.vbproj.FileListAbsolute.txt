@@ -1,0 +1,10 @@
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\bin\Debug\Quadratic Equation.exe.config
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\bin\Debug\Quadratic Equation.exe
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\bin\Debug\Quadratic Equation.pdb
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\bin\Debug\Quadratic Equation.xml
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\obj\Debug\Quadratic_Equation.Form1.resources
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\obj\Debug\Quadratic_Equation.Resources.resources
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\obj\Debug\Quadratic Equation.vbproj.GenerateResource.Cache
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\obj\Debug\Quadratic Equation.exe
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\obj\Debug\Quadratic Equation.xml
+c:\users\ikramlim\documents\visual studio 2013\Projects\Quadratic Equation\Quadratic Equation\obj\Debug\Quadratic Equation.pdb
